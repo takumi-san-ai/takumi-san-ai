@@ -1,6 +1,6 @@
 ## Takumi, the AI offensive security engineer
 
-<img src="https://flatt.tech/assets/images/badges/gmo-oss.svg" height="24px"/>
+<a href="https://flatt.tech/oss/gmo/trampoline" target="_blank"><img src="https://flatt.tech/assets/images/badges/gmo-oss.svg" height="24px"/></a>
 
 ### 🐼 About Me
 
